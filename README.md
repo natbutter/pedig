@@ -1,5 +1,5 @@
 # pedig
-Dokcer file for PEDIG: a Fortran Package for Pedigree Analysis Suited for large populations 
+Dockerfile for PEDIG: a Fortran Package for Pedigree Analysis Suited for large populations 
 
 The Dockerfile rebuilds the fortran codes in an Ubuntu environemnt, using the ```compile.sh``` script. 
 
